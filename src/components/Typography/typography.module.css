@@ -1,0 +1,13 @@
+.typography {
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 44px;
+    color: #239511;
+}
+
+@media screen and (max-width: 1350px) {
+    .typography {
+      font-size: 38px;
+    }
+  }
+  
